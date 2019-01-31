@@ -1,0 +1,22 @@
+{
+  "name": "js-algorithms",
+  "version": "1.0.0",
+  "description": "Learning Algorithms and Data Structure in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "exec:node": "node --experimental-modules index.mjs",
+    "start": "watch 'npm run exec:node' ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "Nodejs",
+    "Node",
+    "Algorithms"
+  ],
+  "author": "William Oliveira <williamozsouza@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "watch": "^1.0.2"
+  }
+}
