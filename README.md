@@ -15,3 +15,11 @@ npm start
 ```
 
 And try change `index.mjs` file. ;)
+
+## Other examples
+
+- [C lang Basics](./code/c-basics)
+- [Data Structures in C lang](./code/data-structures)
+- [Examples in C lang](./code/examples)
+- [Ordenation algorithms](./code/ordenation)
+- [Search algorithms](./code/searchs)
